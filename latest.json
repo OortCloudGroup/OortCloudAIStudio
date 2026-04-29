@@ -1,9 +1,9 @@
 {
     "url": "http://192.168.88.56/OortCloud%20AI%20Studio.exe",
-    "name": "1.0.1",
-    "version": "1.0.1",
-    "productVersion": "1.0.1.0",
-    "hash": "38d1803faab31ef3c026e30954b5ecdd1a09fd23",
+    "name": "1.0.2",
+    "version": "1.0.2",
+    "productVersion": "1.0.2.0",
+    "hash": "409bcf8d09082f8d2e188be82b7449a6e91dd8c6",
     "timestamp": 1770000000000,
-    "sha256hash": "8ba8316bb1f3934545d0ce9404ef23ea15444940db4299ca6b0f83c6eb5dac67"
+    "sha256hash": "2cdc7ce28d7ceb579500e608a0e6515488162e73ee6e21e28970dace4cb6594f"
 }
