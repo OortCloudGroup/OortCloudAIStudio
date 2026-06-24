@@ -1,0 +1,5 @@
+{
+    "version": "2.0.1",
+    "vsixUrl": "http://192.168.88.56/oortcode.vsix",
+    "updateNote": "\r\n 1. 优化已知的问题 \r\n 2 . 设置默认的配置"
+}
