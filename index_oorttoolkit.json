@@ -1,5 +1,5 @@
 {
     "version": "1.0.4",
-    "vsixUrl": "http://192.168.88.56/oort-toolkit.vsix",
+    "vsixUrl": "https://gitcode.com/OortCloudGroup/OortStudio/releases/download/v1.0.7/oort-toolkit.vsix",
     "updateNote": "\r\n 1. 修复已知问题 \r\n 2 . 更新侧边栏用户区域的显示"
 }
