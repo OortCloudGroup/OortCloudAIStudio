@@ -1,9 +1,9 @@
 {
-  "url": "https://gitcode.com/OortCloudGroup/OortStudio/releases/download/v1.0.7/OortCloud AI Studio.exe",
-  "name": "1.0.7",
-  "version": "1.0.7",
-  "productVersion": "1.0.7.0",
-  "hash": "bede43c0094da041b280ec773bb24600d0c8c380",
-  "timestamp": 1782391524901,
-  "sha256hash": "00c7fd96bb0025a8c914a0e49643f2bd49e0b5661ea257dabdc18cfcaef3c81e"
+  "url": "https://gitcode.com/OortCloudGroup/OortStudio/releases/download/v1.0.8/OortCloud AI Studio.exe",
+  "name": "1.0.8",
+  "version": "1.0.8",
+  "productVersion": "1.0.8.0",
+  "hash": "4eeda759df78ee3c58014623fc3162e8db3ad602",
+  "timestamp": 1783163176584,
+  "sha256hash": "bf70399b8215c722da43870dfe4ec8693aea06c9a8159265486acf58fa8d37a9"
 }
