@@ -1,74 +1,82 @@
 # Oortcloud AI Studio
 
-一个强大的 AI 开发工具，为开发者提供高效的 AI 模型训练、部署和管理解决方案。
+A powerful AI development tool that delivers efficient solutions for developers to train, deploy and manage AI models.
 
-## 📖 简介
+## 📖 Overview
 
-Oortcloud AI Studio 是一个专为 AI 开发者设计的综合性开发工具套件，旨在简化 AI 模型的开发流程，提高开发效率，降低技术门槛。无论您是 AI 领域的初学者还是经验丰富的开发者，Oortcloud AI Studio 都能为您提供强大的支持。
+Oortcloud AI Studio is an all-in-one development toolkit built exclusively for AI developers. It streamlines the AI model development workflow, boosts development efficiency and lowers technical barriers. Whether you are a beginner in AI or a seasoned developer, Oortcloud AI Studio delivers robust capabilities to empower your work.
 
-## ✨ 核心特性
+## ✨ Core Features
 
-- **模型训练**：支持多种主流 AI 框架，提供便捷的模型训练接口
-- **模型管理**：统一的模型版本管理和部署工具
-- **数据处理**：内置数据预处理和增强工具链
-- **可视化界面**：直观的图形化界面，简化复杂操作
-- **高性能计算**：优化的计算引擎，充分利用硬件资源
-- **扩展性强**：插件化架构，支持自定义扩展
-- **跨平台支持**：支持 Windows、Linux 和 macOS
+- Model Training: Compatible with multiple mainstream AI frameworks and equipped with user-friendly training interfaces
+- Model Management: Unified toolkit for model version control and deployment
+- Data Processing: Built-in pipeline for data preprocessing and augmentation
+- Visual Interface: Intuitive graphical dashboard to simplify complex operations
+- High-Performance Computing: Optimized computing engine to fully leverage hardware resources
+- High Extensibility: Plugin-based architecture supporting custom extensions
+- Cross-Platform Compatibility: Works on Windows, Linux and macOS
 
-## 🚀 快速开始
+## 🚀 Quick Start
 
-### 环境要求
+### System Requirements
 
-- 操作系统：Windows 10+ / Linux / macOS
-- Python 3.8+
-- CUDA 11.0+ (可选，用于 GPU 加速)
-- 至少 8GB RAM
-- 20GB 可用磁盘空间
+- Operating System: Windows 10 or later / Linux / macOS
+- Python 3.8 or newer
+- CUDA 11.0 or newer (optional, for GPU acceleration)
+- Minimum 8 GB RAM
+- 20 GB free disk space
+
+### Contribute Code
+
+All forms of contributions are warmly welcome! Please follow the steps below:
+
+1. Fork this repository
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your modifications (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the remote branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## 🤝 Community
+
+- Official Website: [https://oortcloud.ai](https://link.wtturl.cn/?target=https%3A%2F%2Foortcloud.ai&scene=im&aid=497858&lang=zh)
+- Forum: [https://forum.oortcloud.ai](https://link.wtturl.cn/?target=https%3A%2F%2Fforum.oortcloud.ai&scene=im&aid=497858&lang=zh)
+- Discord: Join our Discord community
+- Twitter: @OortcloudAI
+
+## 🐛 Bug Reports & Feedback
+
+If you encounter any issues or have improvement suggestions, please submit them via GitHub Issues.
+
+### Quick Script to Update latest.json
+
+Execute the commands below in PowerShell:
+
+powershell
 
 
-### 贡献代码
-
-我们欢迎所有形式的贡献！请遵循以下步骤：
-
-1. Fork 本仓库
-2. 创建特性分支 (`git checkout -b feature/AmazingFeature`)
-3. 提交更改 (`git commit -m 'Add some AmazingFeature'`)
-4. 推送到分支 (`git push origin feature/AmazingFeature`)
-5. 开启 Pull Request
 
 
-## 🤝 社区
 
-- **官方网站**: https://oortcloud.ai
-- **论坛**: https://forum.oortcloud.ai
-- **Discord**: [加入我们的 Discord 社区](https://discord.gg/oortcloud)
-- **Twitter**: [@OortcloudAI](https://twitter.com/OortcloudAI)
 
-## 🐛 问题反馈
 
-如果您遇到任何问题或有改进建议，请在 [GitHub Issues](https://github.com/OortCloudGroup/OortStudio/issues) 中提交。
 
-## 脚本快速更新latest.json
-
-在powershell中运行以下命令
-```Powershell
-# 更新latest.json 参数版本号  默认路径为  G:\lanjian\nginx\html_88_56\OortCloud AI Studio.exe
-.\scripts\update-latest.ps1 -Version "1.0.5"
-
-# 指定路径 
-\scripts\update-latest.ps1 -Version "1.0.6" -ExePath "G:\lanjian\nginx\html_88_56\OortCloud AI Studio.exe"
 
 ```
+# Update latest.json with specified version; default EXE path: G:\lanjian\nginx\html_88_56\OortCloud AI Studio.exe
+.\scripts\update-latest.ps1 -Version "1.0.5"
 
-## 📄 许可证
+# Custom executable path
+.\scripts\update-latest.ps1 -Version "1.0.6" -ExePath "G:\lanjian\nginx\html_88_56\OortCloud AI Studio.exe"
+```
 
-本项目采用 MIT 许可证 - 详见 [LICENSE](LICENSE) 文件
+## 📄 License
 
-## 🙏 致谢
+This project is licensed under the MIT License – see the LICENSE file for full details.
 
-感谢所有为 Oortcloud AI Studio 做出贡献的开发者！
+## 🙏 Acknowledgements
 
----
+Special thanks to all developers who have contributed to Oortcloud AI Studio!
 
-**Oortcloud AI Studio** - 让 AI 开发更简单、更高效
+### Tagline
+
+Oortcloud AI Studio – Make AI development simpler and more efficient
