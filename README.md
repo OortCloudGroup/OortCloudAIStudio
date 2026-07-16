@@ -1,14 +1,14 @@
-<h1 align="center">Oortcloud AI Studio</h1>
+<h1 align="center">OortCloud AI Studio</h1>
 
 A powerful AI development tool that delivers efficient solutions for developers to train, deploy and manage AI models.
 
 English | <a href="README.zh-CN.md">简体中文</a>
 
-![Oortcloud AI Studio](assets/aiagent.jpg)
+![OortCloud AI Studio](assets/aiagent.jpg)
 
 ## 📖 Overview
 
-Oortcloud AI Studio is an all-in-one development toolkit built exclusively for AI developers. It streamlines the AI model development workflow, boosts development efficiency and lowers technical barriers. Whether you are a beginner in AI or a seasoned developer, Oortcloud AI Studio delivers robust capabilities to empower your work.
+OortCloud AI Studio is an all-in-one development toolkit built exclusively for AI developers. It streamlines the AI model development workflow, boosts development efficiency and lowers technical barriers. Whether you are a beginner in AI or a seasoned developer, OortCloud AI Studio delivers robust capabilities to empower your work.
 
 ## ✨ Core Features
 
@@ -69,8 +69,8 @@ This project is licensed under the MIT License – see the LICENSE file for full
 
 ## 🙏 Acknowledgements
 
-Special thanks to all developers who have contributed to Oortcloud AI Studio!
+Special thanks to all developers who have contributed to OortCloud AI Studio!
 
 ### Tagline
 
-Oortcloud AI Studio – Make AI development simpler and more efficient
+OortCloud AI Studio – Make AI development simpler and more efficient
