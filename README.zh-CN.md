@@ -4,7 +4,7 @@
 
 <a href="README.md">English</a> | 简体中文
 
-![Oortcloud AI Studio](assets/aiagent.jpg)
+![Oortcloud AI Studio](assets/aiagent_zh.jpg)
 
 ## 📖 项目概述
 
