@@ -2,7 +2,7 @@
 
 一款强大的 AI 开发工具，为开发者训练、部署和管理 AI 模型提供高效解决方案。
 
-<p align="right"><a href="README.md">English</a> | 简体中文</p>
+<a href="README.md">English</a> | 简体中文
 
 ![Oortcloud AI Studio](assets/aiagent.jpg)
 

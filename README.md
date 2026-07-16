@@ -2,7 +2,7 @@
 
 A powerful AI development tool that delivers efficient solutions for developers to train, deploy and manage AI models.
 
-<p align="right">English | <a href="README.zh-CN.md">简体中文</a></p>
+English | <a href="README.zh-CN.md">简体中文</a>
 
 ![Oortcloud AI Studio](assets/aiagent.jpg)
 
