@@ -1,6 +1,10 @@
-# Oortcloud AI Studio
+<h1 align="center">Oortcloud AI Studio</h1>
 
 A powerful AI development tool that delivers efficient solutions for developers to train, deploy and manage AI models.
+
+<p align="right">English | <a href="README.zh-CN.md">简体中文</a></p>
+
+![Oortcloud AI Studio](assets/aiagent.jpg)
 
 ## 📖 Overview
 
@@ -51,17 +55,7 @@ If you encounter any issues or have improvement suggestions, please submit them 
 
 Execute the commands below in PowerShell:
 
-powershell
-
-
-
-
-
-
-
-
-
-```
+```powershell
 # Update latest.json with specified version; default EXE path: G:\lanjian\nginx\html_88_56\OortCloud AI Studio.exe
 .\scripts\update-latest.ps1 -Version "1.0.5"
 
