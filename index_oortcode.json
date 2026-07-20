@@ -1,5 +1,5 @@
 {
-    "version": "1.0.2",
+    "version": "1.0.3",
     "vsixUrl": "https://myoumuamua.com/mystatic/aistudio/oortcodex.vsix",
-    "updateNote": "\r\n 1. 新增代码补全功能 \r\n 2 . 优化agent架构"
+    "updateNote": "\r\n 1. 完善模板功能 \r\n 2 . 完善工作空间"
 }
