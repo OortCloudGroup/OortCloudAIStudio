@@ -1,5 +1,5 @@
 {
-    "version": "1.0.4",
+    "version": "1.0.5",
     "vsixUrl": "https://myoumuamua.com/mystatic/aistudio/oortcodex.vsix",
-    "updateNote": "\r\n 1. 完善new api的对接 \r\n 2 . 新增集成acp agent支撑"
+    "updateNote": "\r\n 1. 调整UI界面 \r\n 2 . acp agent集成到设置页面"
 }
