@@ -1,5 +1,5 @@
 {
-    "version": "1.0.8",
+    "version": "1.0.9",
     "vsixUrl": "https://myoumuamua.com/mystatic/aistudio/oortcodex.vsix",
-    "updateNote": "\r\n 1. 调整模板列表 \r\n 2 . 完善页面UI"
+    "updateNote": "\r\n 1. 统一文案 \r\n 2 . 修复模板下载的问题"
 }
