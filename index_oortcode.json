@@ -1,5 +1,5 @@
 {
-    "version": "1.0.11",
+    "version": "1.0.12",
     "vsixUrl": "https://myoumuamua.com/mystatic/aistudio/oortcodex.vsix",
-    "updateNote": "\r\n 1. 新增h5一键部署 \r\n 2 . 修复模板下载的问题"
+    "updateNote": "\r\n 1. 新增切换环境的设置 \r\n 2 . 新增单租户环境"
 }
