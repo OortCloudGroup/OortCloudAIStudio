@@ -1,5 +1,5 @@
 {
-    "version": "1.0.13",
+    "version": "1.0.14",
     "vsixUrl": "https://myoumuamua.com/mystatic/aistudio/oortcodex.vsix",
-    "updateNote": "\r\n 1. 重构模板加载逻辑 \r\n 2 . 调整三方agent的交互逻辑,OpenCode 支持加载OortCodex模型"
+    "updateNote": "\r\n 1. 名称调整 \r\n 2 . 调整三方agent的交互逻辑,CodexCli 支持加载OortCodex模型"
 }
