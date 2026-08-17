@@ -1,5 +1,5 @@
 {
-    "version": "1.0.14",
+    "version": "1.0.15",
     "vsixUrl": "https://myoumuamua.com/mystatic/aistudio/oortcodex.vsix",
-    "updateNote": "\r\n 1. 名称调整 \r\n 2 . 调整三方agent的交互逻辑,CodexCli 支持加载OortCodex模型"
+    "updateNote": "\r\n 1. 支持第三方agent (Codex|OpenCode|Claude Code|Gemni ClI|Qwen Code|Cline|Deepseek Harness)使用 OortCodex 中转 \r\n 2 . 调整优化vibeCode对话框的UI,优化体验"
 }
