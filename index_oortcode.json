@@ -1,5 +1,5 @@
 {
-    "version": "1.0.16",
+    "version": "1.0.17",
     "vsixUrl": "https://myoumuamua.com/mystatic/aistudio/oortcodex.vsix",
-    "updateNote": "\r\n 1. 添加oa正式环境 \r\n 2. 调整选择agent 的样式"
+    "updateNote": "\r\n 1. 完善模型配置和供应商配置页面 \r\n 2. 完善模板管理页面的逻辑"
 }
