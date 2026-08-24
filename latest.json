@@ -3,8 +3,8 @@
   "name": "1.0.12",
   "version": "1.0.12",
   "productVersion": "1.0.12.0",
-  "hash": "9e9223db80cd9965dffa8c7d62e332480ee092a3",
-  "timestamp": 1787573881956,
-  "sha256hash": "53f170def052684a8f6bc527bc77a79f2f2b1c41c5e109e42252b3a4550133a7",
+  "hash": "d04aaa293e0049965ef8b8481b4e40aab3f0593f",
+  "timestamp": 1787578833691,
+  "sha256hash": "39f5bffc45294b9cb9d40d9f0874e2f054afcbd3b8b1a7b638337e8069531551",
   "logs": "## 1.0.12\n\n- 内置最新1.0.21版本codex\n-平台更新模块迭代"
 }
