@@ -5,5 +5,6 @@
   "productVersion": "1.0.11.0",
   "hash": "c09a7333649d344bffd29ec2e882473e9ff76488",
   "timestamp": 1787323412693,
-  "sha256hash": "dc6ebd59932abda506a7a6f205d3beda5ccefe92c3e8a907c9e4857c02b13054"
+  "sha256hash": "dc6ebd59932abda506a7a6f205d3beda5ccefe92c3e8a907c9e4857c02b13054",
+  "logs": "内置最新1.0.21版本codex; 新增更新Studio的更新UI逻辑"
 }
